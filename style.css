@@ -1,0 +1,15 @@
+.header{
+    border: solid;
+    border-width: 0.3cm;
+    
+}
+.whole{
+    background-color:rgb(0, 255, 242);
+    border: solid;
+    color: orange;
+}
+.links{
+    border:solid;
+    border-width: 0.1cm;
+    background-color: rgb(248, 191, 34);
+}
